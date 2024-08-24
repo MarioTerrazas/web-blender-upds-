@@ -12,6 +12,7 @@
   "devDependencies": {
     "react-scripts": "5.0.1"
   },
+  "hompage":"https://visor3d.terrasatbo.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
